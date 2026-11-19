@@ -1,6 +1,6 @@
 [![Uptime Robot status](https://img.shields.io/uptimerobot/status/m793802954-7f701e85a9b8891f77662c72?label=json-server&style=for-the-badge&)](https://dummyjson.com/test)
 
-# DummyJSON
+## DummyJSON
 
 [DummyJSON](https://dummyjson.com) is a free REST API for generating placeholder JSON data — no setup, no auth, just use it.
 
